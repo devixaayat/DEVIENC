@@ -16,7 +16,7 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from import DEVI
+        from PY8 import DEVI
  
         DEVI()
  
@@ -24,7 +24,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from PY3 import DEVI
+        from PY4 import DEVI
  
  
         DEVI()
