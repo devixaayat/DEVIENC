@@ -4,7 +4,7 @@ pkg install git
 
 pkg install python
 
-git clone https://github.com/MAHADI-143/ENC_PY3.git
+git clone https://github.com/devixaayat/DEVIENC.git
 
 cd ENC_PY3
 
